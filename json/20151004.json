@@ -5,8 +5,8 @@
   "image": "20151004",
   "body": ["&nbsp;",
            "Moon @ noon",
-           "&nbsp;<br /><jw-img data-pi='8f/9b/ee/8f9beee0fa6948a63c3f89db9bac25b1.jpg' alt='20151004-1' />",
-           "&nbsp;<br /><jw-img data-pi='8e/a7/ed/8ea7ed2a91b357c70251d0db142bb3ea.jpg' alt='20151004-2' />",
+           "&nbsp;<br /><jw-img data-pi-42='jw@181685946001202.jpg' data-pi='8f/9b/ee/8f9beee0fa6948a63c3f89db9bac25b1.jpg' alt='20151004-1' />",
+           "&nbsp;<br /><jw-img data-pi-56='jw@181685923000202.jpg' data-pi='8e/a7/ed/8ea7ed2a91b357c70251d0db142bb3ea.jpg' alt='20151004-2' />",
            "&nbsp;"],
   "publishedAt": "2015-10-04",
   "show": false
