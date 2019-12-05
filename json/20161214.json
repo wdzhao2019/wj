@@ -3,7 +3,7 @@
   "description": "Lake Ontario -- On the way to office",
   "author": "JF",
   "image": "20161214",
-  "body": ["&nbsp;<br /><img src='https://i.pinimg.com/originals/fd/cd/9d/fdcd9dbc3521d797e1f9ed84a4550b14.jpg' alt='20161214' style='width:100%' />",
+  "body": ["&nbsp;<br /><jw-img data-pi='fd/cd/9d/fdcd9dbc3521d797e1f9ed84a4550b14.jpg' alt='20161214' />",
            "&nbsp;"],
   "publishedAt": "2016-12-14",
   "show": false

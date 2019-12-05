@@ -3,7 +3,7 @@
   "description": "Sunrise -- Lake Ontario -- On the way to office -- 2018",
   "author": "JF",
   "image": "20180117",
-  "body": ["<img src='https://i.pinimg.com/originals/f3/df/b3/f3dfb3b32bbac19d7a32f347275731e0.jpg' alt='20180117' style='width:100%' />"],
+  "body": ["<jw-img data-pi='f3/df/b3/f3dfb3b32bbac19d7a32f347275731e0.jpg' alt='20180117' />"],
   "publishedAt": "2018-01-17",
   "show": false
 }

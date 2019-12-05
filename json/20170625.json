@@ -4,10 +4,10 @@
   "author": "JF",
   "image": "20170625",
   "body": ["悠悠十二载<br/>朝朝附暮霭<br/>稚儿斯长成<br/>此别不云彩",
-           "&nbsp;<br /><img src='https://i.pinimg.com/originals/50/dc/02/50dc0204e2fae4925874c3e67e88ec44.jpg' alt='20170625-0' style='width:100%' />",
-           "&nbsp;<br /><img src='https://i.pinimg.com/originals/2f/21/d3/2f21d3c6ea451282a04ced1d8b1df56b.jpg' alt='20170625-1' style='width:100%' />",
-           "&nbsp;<br /><img src='https://i.pinimg.com/originals/13/56/ec/1356ec0080284fe4cb71b694aeb356ae.jpg' alt='20170625-2' style='width:100%' />",
-           "&nbsp;<br /><img src='https://i.pinimg.com/originals/17/54/4c/17544c670b50cc05e769beb748986935.jpg' alt='20170625-3' style='width:100%' />"],
+           "&nbsp;<br /><jw-img data-pi='50/dc/02/50dc0204e2fae4925874c3e67e88ec44.jpg' alt='20170625-0' />",
+           "&nbsp;<br /><jw-img data-pi='2f/21/d3/2f21d3c6ea451282a04ced1d8b1df56b.jpg' alt='20170625-1' />",
+           "&nbsp;<br /><jw-img data-pi='13/56/ec/1356ec0080284fe4cb71b694aeb356ae.jpg' alt='20170625-2' />",
+           "&nbsp;<br /><jw-img data-pi='17/54/4c/17544c670b50cc05e769beb748986935.jpg' alt='20170625-3' />"],
   "publishedAt": "2017-06-25",
   "show": false
 }

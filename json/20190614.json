@@ -4,7 +4,7 @@
   "author": "JF",
   "image": "20190614",
   "body": ["&nbsp;",
-           "&nbsp;<br /><img src='https://i.pinimg.com/originals/3f/60/2c/3f602c35e2c6d33b2944837c94a4b06b.jpg' alt='20190614' style='width:100%' />",
+           "&nbsp;<br /><jw-img data-pi='3f/60/2c/3f602c35e2c6d33b2944837c94a4b06b.jpg' alt='20190614' />",
            "&nbsp;"],
   "publishedAt": "2019-06-14",
   "show": false

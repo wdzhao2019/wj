@@ -4,9 +4,9 @@
   "author": "JF",
   "image": "20190721",
   "body": ["&nbsp;",
-           "&nbsp;<br /><img src='https://i.pinimg.com/originals/d5/41/7e/d5417ef0fd924ce176298996a47dc4b0.jpg' alt='20190721-0' style='width:100%' />",
-           "&nbsp;<br /><img src='https://i.pinimg.com/originals/94/b3/c0/94b3c09d5c81b9c2a6acea58d37d9316.jpg' alt='20190721-1' style='width:100%' />",
-           "&nbsp;<br /><img src='https://i.pinimg.com/originals/62/e8/95/62e8950b4462df493c30d4a6b23d8f3d.jpg' alt='20190721-2' style='width:100%' />",
+           "&nbsp;<br /><jw-img data-pi='d5/41/7e/d5417ef0fd924ce176298996a47dc4b0.jpg' alt='20190721-0' />",
+           "&nbsp;<br /><jw-img data-pi='94/b3/c0/94b3c09d5c81b9c2a6acea58d37d9316.jpg' alt='20190721-1' />",
+           "&nbsp;<br /><jw-img data-pi='62/e8/95/62e8950b4462df493c30d4a6b23d8f3d.jpg' alt='20190721-2' />",
            "&nbsp;"],
   "publishedAt": "2019-07-21",
   "show": false
